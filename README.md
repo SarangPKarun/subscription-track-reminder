@@ -13,3 +13,9 @@ npm install --save-dev nodemon
 npx eslint --init
 
 CREATE  express js server
+
+npm install dotenv
+
+npm install mongodb mongoose
+
+npm install jsonwebtoken bcryptjs 
